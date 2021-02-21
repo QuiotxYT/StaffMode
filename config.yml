@@ -1,0 +1,15 @@
+# block commands
+commands: 
+- "me"
+- "msg"
+- "tell"
+- "w"
+- "say"
+
+commands_block: 
+- "me"
+- "kill"
+- "suicide"
+
+# Settings for saving data
+configuration: "true"
